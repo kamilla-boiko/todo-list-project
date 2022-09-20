@@ -1,0 +1,18 @@
+body {
+    margin-top: 20px;
+}
+
+.sidebar {
+    padding: 0;
+    list-style: none;
+}
+
+.task-list {
+    list-style: none;
+    padding: 0;
+}
+
+.tags {
+    color: dimgray;
+    font-weight: bold;
+}
